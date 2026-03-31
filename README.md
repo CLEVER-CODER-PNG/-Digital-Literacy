@@ -87,13 +87,13 @@ Developed formal communication skills by:
 
 ### Task 5: Cybersecurity Awareness
 
-Focused on **UPI fraud awareness in India**:
+This task focuses on building awareness about cybercrime and promoting safe online practices.
 
-* Explained how scams work step-by-step
-* Provided prevention strategies
-* Shared official reporting channels
+In Part A, students must research a cybercrime such as phishing and write case study explaining what the crime is, how it happens step-by-step, who is targeted, and its consequences.
 
- Helpline: **1930**
+In Part B, students must create a “Stay Safe Online” checklist with at least eight actionable tips relevant to college students in India, including at least two tips on UPI or financial safety. They must also include reporting options such as the National Cyber Crime Portal (cybercrime.gov.in) and Helpline 1930.
+
+
 
 ---
 
